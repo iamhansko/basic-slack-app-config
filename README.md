@@ -1,2 +1,3 @@
-# basic-slack-app-config
-GitOps using Kubernetes + Argocd + Kustomize 
+# Basic Slack App Config
+
+GitOps using Kubernetes + Argocd + Kustomize
