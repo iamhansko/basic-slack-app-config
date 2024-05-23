@@ -11,4 +11,4 @@ resources:
 - namespace.yaml
 images:
 - name: sce06147/slack-app
-  newTag: d4f4ddb00fe55097a33465544b2dd6ede8eb2973
+  newTag: d1d06e4f71fea8d8687d7c4db6d86da21a99ccbd
